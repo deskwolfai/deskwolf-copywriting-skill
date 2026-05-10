@@ -90,6 +90,14 @@ Follow the loaded template. Apply the frameworks. Then run the quality checks be
 
 ## Quality Checks (Run Before Delivery)
 
+### Core Sales Philosophy — FBA (Run First, Layer 0)
+- [ ] **Advantage-led**: the body leads with the customer's status shift (how they will be perceived by customers, competitors, peers, family) — NOT with a spec or a benefit
+- [ ] Benefit is touched lightly, not used as the headline
+- [ ] One specific feature anchors the status claim (the "under 1 second," the "70+ languages," the "free design")
+- [ ] **Status check passes**: the reader would feel important if their best customer overheard them saying yes
+- [ ] **Peer-comparison check passes**: the copy makes them look ahead of, not behind, the people they care about being ahead of
+- [ ] Full FBA training: `references/fba_mindset.md`
+
 ### Framework Compliance
 - [ ] Does the copy push at least 2 of the 4 Value Equation drivers? (Dream Outcome, Likelihood, Time Delay, Effort)
 - [ ] Is there a clear Big Domino — one core belief the copy is designed to install?

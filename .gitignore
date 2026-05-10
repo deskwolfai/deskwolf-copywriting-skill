@@ -32,3 +32,6 @@ dist/
 build/
 __pycache__/
 *.pyc
+
+# Rendered HTML intermediates (PDF is the shipping artifact)
+references/*.html

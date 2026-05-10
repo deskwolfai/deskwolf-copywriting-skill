@@ -1,22 +1,58 @@
 ---
 name: copywriting_guidelines
-description: Master copywriting standards for DeskWolf and DeskWolf clients. Brand voice, anti-slop rules, structural standards, and quality gates. The single source of truth — every other copywriting reference defers here.
+description: Master copywriting standards for DeskWolf and DeskWolf clients. Core sales philosophy (FBA), brand voice, anti-slop rules, structural standards, and quality gates. The single source of truth — every other copywriting reference defers here.
 type: master
-last_updated: 2026-04-30
+last_updated: 2026-05-10
 ---
 
 # DeskWolf Copywriting Guidelines
 
 The single source of truth for sales copy, articles, ads, emails, and any other written asset DeskWolf produces — for itself or for clients. Every rule here is designed to do two things at once: make the copy sound human, and make it convert.
 
-This document is structured in four layers:
+This document is structured in five layers:
 
+0. **Sales Philosophy (FBA)** — the *lens* through which everything else is written
 1. **Voice** — how copy should *sound*
 2. **Structure** — how copy should be *built*
 3. **Anti-Slop** — what copy must *avoid*
 4. **Quality** — what copy must *pass* before delivery
 
 Read top to bottom on first encounter. After that, jump to the section relevant to the asset you're writing.
+
+---
+
+# LAYER 0 — CORE SALES PHILOSOPHY (FBA)
+
+**Mandatory lens.** All DeskWolf marketing copy appeals to **advantages first**, touches benefits lightly, and anchors on one feature. This rule sits above every other rule in this document. If a draft is feature-led or benefit-led where it should be advantage-led, it fails this layer regardless of how well it satisfies the others.
+
+## The three layers of the offer
+
+- **Feature** = the spec (what it does on paper)
+- **Benefit** = the experience of using it (how it feels)
+- **ADVANTAGE** = the customer's **status shift** relative to other people (how they will be *perceived* by customers, competitors, peers, and family)
+
+## The iPhone reasoning (canonical example)
+
+Why anyone actually wants an iPhone is not the chip, the camera, or the OS. Android matches or beats those features. The military phone beats it on benefits (indestructible, sealed battery, dust-rated). The real purchase driver is the **advantage**: blue text bubbles, social currency, peer perception, being read as "the modern hire" or "successful." Status is the real product.
+
+- Lowest level of sales: stuck on **features**. Spec lists. "Sell me a pen" gets a literal answer. Loses the room.
+- Decent marketers: get to **benefits**. They paint the experience of using the thing. Most stop here.
+- Top 1% of marketers: lead with the **advantage**. They name what the customer's peers, customers, competitors, and family will think when they say yes.
+
+## How to apply it
+
+Lead the body with the status shift. Touch the benefit lightly. Anchor one specific feature as the proof the status claim is believable (the "under 1 second," the "70+ languages," the "free design"). Then close with a soft action.
+
+**Before sending any draft, ask:**
+
+1. **Status check** — would the reader feel important if their best customer overheard them saying yes to this?
+2. **Peer-comparison check** — does this make them look ahead of, or behind, the people they care about being ahead of?
+
+If the answer is no on either, the copy is still in feature/benefit territory. Rewrite before continuing to the other layer checks.
+
+## Full FBA training
+
+Per-product advantage matrices (Voice Agents, Sites, Consulting), three-version comparisons (feature-led / benefit-led / advantage-led), and team training: see `references/fba_mindset.md`. The training also lives in BUNSHIN at `The Pillars/Wisdom/Frameworks & Mental Models/Features Benefits Advantages (FBA).md`.
 
 ---
 
